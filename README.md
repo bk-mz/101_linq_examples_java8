@@ -10,7 +10,7 @@ Execute and display the results of all the examples with:
 
 #### Contributions into more idiomatic and readable examples are welcome!
 
-#### [LINQ - Restriction Operators](https://github.com/headh-thrash/101_linq_examples_java8/blob/master/src/main/java/linq/RestrictionOperators.clj) / [MSDN C#](http://code.msdn.microsoft.com/LINQ-to-DataSets-09787825)
+#### [LINQ - Restriction Operators](https://github.com/head-thrash/101_linq_examples_java8/blob/master/src/main/java/linq/RestrictionOperators.java) / [MSDN C#](http://code.msdn.microsoft.com/LINQ-to-DataSets-09787825)
 
 ##  Side-by-side - C# LINQ vs Clojure
 
