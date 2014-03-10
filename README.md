@@ -110,7 +110,7 @@ public void Linq3()
 }
 ```
 ```java
-;;java
+//java
 List<Product> products = Objects.getProductList();
 Stream<Product> stream = products.stream().filter(x -> x.unitsInStock > 0 && x.unitPrice > 3.00);
 System.out.println("In-stock products that cost more than 3.00:");
@@ -150,7 +150,7 @@ public void Linq4()
 }
 ```
 ```java
-;;java
+//java
 System.out.println("Customers from Washington and their orders:");
 Stream<Customer> stream = Objects.getCustomerList()
         .stream()
@@ -191,7 +191,7 @@ public void Linq5()
 }
 ```
 ```java
-;;java
+//java
 String[] digits = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 System.out.println("Short digits:");
 IntStream.range(0, digits.length)
