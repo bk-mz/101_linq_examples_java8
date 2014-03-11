@@ -12,4 +12,4 @@ dependencies {
 }
 
 apply plugin: 'application'
-mainClassName='linq.RestrictionOperators'
+mainClassName='linq.Main'
