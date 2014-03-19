@@ -2,7 +2,7 @@
 ===========================
 
 Port of [C#'s' 101 LINQ Samples](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b) translated into Java 8.
-(Structure, text and etc copied from [mythz Clojure repository](https://github.com/mythz/java-linq-examples))
+(Structure, text and etc copied from [mythz Clojure repository](https://github.com/mythz/clojure-linq-examples))
 
 Execute and display the results of all the examples with:
 
